@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushboosingh12" alt="khushboosingh12" /></a> </p>
 
-- 🔭 I’m currently working on [Sangam Mobile CRM](https://apps.apple.com/in/app/sangam-mobile-crm/id1511672687)
+- 🔭 I’m currently working on B-One
 
 - 🌱 I’m currently learning **Advance Swift & Github**
 
